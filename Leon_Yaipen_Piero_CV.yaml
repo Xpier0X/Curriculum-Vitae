@@ -1,0 +1,283 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Leon Yaipen Piero Daniel
+  headline:
+  location: Lima, PE
+  email: leonyaipenpiero07@gmail.com
+  photo:
+  phone: +51 910646338
+  social_networks:
+    - network: LinkedIn
+      username: LYPiero
+    - network: GitHub
+      username: Xpier0X
+  custom_connections:
+  sections:
+    Presentación:
+      - Estudiante de Ingeniería de Sistemas en noveno ciclo, con conocimientos en redes, soporte tecnico y en constante aprendizaje. He participado en diversos proyectos académicos aplicando tecnologías modernas como Flutter, TypeScript, Tailwind CSS y JavaScript. Busco oportunidades para aplicar mis conocimientos en entornos profesionales y seguir creciendo como desarrollador.
+    Educación:
+      - institution: Universidad Cesar Vallejo
+        area: Ingeniería de Sistemas
+        date:
+        start_date: 2021-08
+        end_date: present
+        location: Lima, PE
+    Experiencia:
+      - company: Globtecx
+        position: FronteEnd Developer
+        date:
+        start_date: 2025-07
+        end_date: present
+        location: Remote
+        summary:
+        highlights:
+          - Participe para la creación de un prototipo funcional en Figma para definir el diseño y la estructura de la plataforma web.
+          - Desarrolle el sitio, implementando las funcionalidades necesarias y asegurando una experiencia de usuario óptima.
+          - Colabore con el SEO para optimizar el rendimiento del sitio y mejorar su visibilidad en los motores de búsqueda.
+      - company: Claro Advisor IT
+        position: Soporte Tecnico
+        date:
+        start_date: 2025-08
+        end_date: 2025-09
+        location: Santa Anita
+        summary:
+        highlights:
+          - Realice mantenimiento preventivo y correctivo de equipos informáticos, asegurando su óptimo funcionamiento.
+          - Proporcione soporte técnico a usuarios, resolviendo incidencias y mejorando la experiencia del usuario.
+          - Instale y configure software y hardware, adaptándolos a las necesidades específicas de los usuarios.
+      - company: Universidad Privada del Norte
+        position: Soporte Técnico
+        date:
+        start_date: 2025-07
+        end_date: 2025-08
+        location: Breña
+        summary:
+        highlights:
+          - Desarrolle labores de mantenimiento integral en las salas de computación, laboratorios y aulas que incluyen equipos de cómputo, proyectores y otros dispositivos tecnológicos.
+          - Documente los procedimientos realizados para futuras referencias y mejoras en el mantenimiento de los equipos.
+          - Reporte mejoras y recomendaciones para que los equipos funcionen de manera eficiente y prolongar su vida útil.
+      - company: Plaza Vea
+        position: Cajero
+        date:
+        start_date: 2024-09
+        end_date: 2025-03
+        location: Centro civico
+        summary:
+        highlights:
+          - Manejo de caja registradora, procesamiento de pagos y atención al cliente.
+          - Resolución de consultas y problemas de los clientes de manera eficiente y cortés.
+          - Mantenimiento del área de trabajo limpia y organizada.
+      - company: Bata PE
+        position: Venta y atención al cliente
+        date:
+        start_date: 2023-03
+        end_date: 2024-03
+        location: Jesus Maria
+        summary:
+        highlights:
+          - Atención personalizada a los clientes, ayudándoles a encontrar productos adecuados y ofreciendo recomendaciones basadas en sus necesidades.
+          - Gestión de inventario, asegurando que los productos estén bien organizados y disponibles para los clientes.
+          - Manejo de caja registradora, procesamiento de pagos y cierre de caja al final del día.
+    Proyectos:
+      - name: 'Tria'
+        date:
+        start_date: 2024-04
+        end_date: 2024-07
+        location:
+        summary: Plataforma web para la consulta de información académica y administrativa de estudiantes universitarios con inteligencia artificial.
+        highlights:
+          - Colaboré para poder crear un prototipo en Figma para poder determinar diseño, paleta de colores, tipografía y estructura de la plataforma web.
+          - Desarrollé las secciones de la plataforma web utilizando tecnologías como Tailwind CSS, JavaScript y TypeScript para crear una interfaz de usuario atractiva y funcional.
+          - Implementé la interfaz de del chatbot utilizando la API de Gemini de google alimentada con información académica y administrativa para brindar respuestas precisas a las consultas de los estudiantes.
+          - Participe en equipo para aplicar una metodologia ágil (Scrum) para gestionar el desarrollo del proyecto, asegurando una comunicación efectiva y una entrega oportuna de las funcionalidades.
+      - name: 'Digital Card'
+        date: 
+        start_date: 2023-09
+        end_date: 2023-12
+        location:
+        summary: Sistema de gestion de mesas y pedidos para los mosos de un restaurante mediante una plataforma digital.
+        highlights:
+          - Desarrollé el prototipo funcional en figma para poder tener el mapa de la plataforma digital.
+          - Implementé interfaces de usuario y administrador utilizando html, css y javascript para crear una experiencia de usuario intuitiva y atractiva.
+          - Aseguré una navegación fluida y una experiencia de usuario positiva mediante el uso de buenas prácticas de diseño web.
+    Habilidades:
+      - label: Lenguajes
+        details: JavaScript, TypeScript, SQL 
+      - label: Lenguajes de marcado y estilos
+        details: HTML5, CSS3
+      - label: Frameworks
+        details: Tailwind CSS, Flutter, Bootstrap, React.js (básico), Astro
+      - label: Herramientas
+        details: Git, github, WordPress, Figma, Visual Studio Code
+design:
+  theme: engineeringresumes
+  # page:
+  #   size: us-letter
+  #   top_margin: 0.7in
+  #   bottom_margin: 0.7in
+  #   left_margin: 0.7in
+  #   right_margin: 0.7in
+  #   show_footer: false
+  #   show_top_note: true
+  # colors:
+  #   body: rgb(0, 0, 0)
+  #   name: rgb(0, 0, 0)
+  #   headline: rgb(0, 0, 0)
+  #   connections: rgb(0, 0, 0)
+  #   section_titles: rgb(0, 0, 0)
+  #   links: rgb(0, 0, 0)
+  #   footer: rgb(128, 128, 128)
+  #   top_note: rgb(128, 128, 128)
+  # typography:
+  #   line_spacing: 0.7em
+  #   alignment: justified
+  #   date_and_location_column_alignment: right
+  #   font_family:
+  #     body: XCharter
+  #     name: XCharter
+  #     headline: XCharter
+  #     connections: XCharter
+  #     section_titles: XCharter
+  #   font_size:
+  #     body: 10pt
+  #     name: 25pt
+  #     headline: 10pt
+  #     connections: 10pt
+  #     section_titles: 1.2em
+  #   small_caps:
+  #     name: false
+  #     headline: false
+  #     connections: false
+  #     section_titles: false
+  #   bold:
+  #     name: false
+  #     headline: false
+  #     connections: false
+  #     section_titles: true
+  # links:
+  #   underline: true
+  #   show_external_link_icon: false
+  # header:
+  #   alignment: center
+  #   photo_width: 3.5cm
+  #   photo_position: left
+  #   photo_space_left: 0.4cm
+  #   photo_space_right: 0.4cm
+  #   space_below_name: 0.7cm
+  #   space_below_headline: 0.7cm
+  #   space_below_connections: 0.7cm
+  #   connections:
+  #     phone_number_format: national
+  #     hyperlink: true
+  #     show_icons: false
+  #     display_urls_instead_of_usernames: true
+  #     separator: '|'
+  #     space_between_connections: 0.5cm
+  # section_titles:
+  #   type: with_full_line
+  #   line_thickness: 0.5pt
+  #   space_above: 0.5cm
+  #   space_below: 0.3cm
+  # sections:
+  #   allow_page_break: true
+  #   space_between_regular_entries: 0.42cm
+  #   space_between_text_based_entries: 0.15cm
+  #   show_time_spans_in: []
+  # entries:
+  #   date_and_location_width: 4.15cm
+  #   side_space: 0cm
+  #   space_between_columns: 0.1cm
+  #   allow_page_break: false
+  #   short_second_row: false
+  #   summary:
+  #     space_above: 0.08cm
+  #     space_left: 0cm
+  #   highlights:
+  #     bullet: ●
+  #     nested_bullet: ●
+  #     space_left: 0cm
+  #     space_above: 0.08cm
+  #     space_between_items: 0.08cm
+  #     space_between_bullet_and_text: 0.3em
+  # templates:
+  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+  #   top_note: '*LAST_UPDATED CURRENT_DATE*'
+  #   single_date: MONTH_ABBREVIATION YEAR
+  #   date_range: START_DATE – END_DATE
+  #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+  #   one_line_entry:
+  #     main_column: '**LABEL:** DETAILS'
+  #   education_entry:
+  #     main_column: |-
+  #       **INSTITUTION**, DEGREE in AREA -- LOCATION
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     degree_column:
+  #     date_and_location_column: DATE
+  #   normal_entry:
+  #     main_column: |-
+  #       **NAME** -- **LOCATION**
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: DATE
+  #   experience_entry:
+  #     main_column: |-
+  #       **POSITION**, COMPANY -- LOCATION
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: DATE
+  #   publication_entry:
+  #     main_column: |-
+  #       **TITLE**
+  #       SUMMARY
+  #       AUTHORS
+  #       URL (JOURNAL)
+  #     date_and_location_column: DATE
+locale:
+  language: spanish
+  # month: mes
+  # months: meses
+  # year: año
+  # years: años
+  # present: Presente
+  # month_abbreviations:
+  #   - Ene
+  #   - Feb
+  #   - Mar
+  #   - Abr
+  #   - May
+  #   - Jun
+  #   - Jul
+  #   - Ago
+  #   - Sep
+  #   - Oct
+  #   - Nov
+  #   - Dic
+  # month_names:
+  #   - Enero
+  #   - Febrero
+  #   - Marzo
+  #   - Abril
+  #   - Mayo
+  #   - Junio
+  #   - Julio
+  #   - Agosto
+  #   - Septiembre
+  #   - Octubre
+  #   - Noviembre
+  #   - Diciembre
+settings:
+  render_command:
+    design:
+    locale: 
+    typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.md
+    html_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.html
+    png_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []

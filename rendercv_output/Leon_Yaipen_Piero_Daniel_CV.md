@@ -1,7 +1,7 @@
 # Leon Yaipen Piero Daniel's CV
 
 - Phone: +51 910 646 338
-- Email: [leonyaipenpiero07@gmail.com](mailto:leonyaipenpiero07@gmail.com)
+- Email: [pieroleonyaipen07@gmail.com](mailto:pieroleonyaipen07@gmail.com)
 - Location: Lima, PE
 - LinkedIn: [LYPiero](https://linkedin.com/in/LYPiero)
 - GitHub: [Xpier0X](https://github.com/Xpier0X)
@@ -108,10 +108,10 @@ Sistema de gestion de mesas y pedidos para los mosos de un restaurante mediante 
 
 
 # Habilidades
-**Lenguajes:** JavaScript, TypeScript, SQL
+**Lenguajes:** JavaScript, TypeScript, SQl
 
 **Lenguajes de marcado y estilos:** HTML5, CSS3
 
 **Frameworks:** Tailwind CSS, Flutter, Bootstrap, React.js (básico), Astro
 
-**Herramientas:** Git, github, WordPress, Figma, Visual Studio Code
+**Herramientas:** Git, github, WordPress, Figma

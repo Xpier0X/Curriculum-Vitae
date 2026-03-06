@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Leon Yaipen Piero Daniel",
   footer: context { [#emph[Leon Yaipen Piero Daniel -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Última actualización Ene 2026] ],
+  top-note: [ #emph[Última actualización Mar 2026] ],
   locale-catalog-language: "es",
   page-size: "us-letter",
   page-top-margin: 0.7in,
@@ -77,8 +77,8 @@
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2026,
-    month: 1,
-    day: 26,
+    month: 3,
+    day: 6,
   ),
 )
 
@@ -87,7 +87,7 @@
 
 #connections(
   [Lima, PE],
-  [#link("mailto:leonyaipenpiero07@gmail.com", icon: false, if-underline: false, if-color: false)[leonyaipenpiero07\@gmail.com]],
+  [#link("mailto:pieroleonyaipen07@gmail.com", icon: false, if-underline: false, if-color: false)[pieroleonyaipen07\@gmail.com]],
   [#link("tel:+51-910-646-338", icon: false, if-underline: false, if-color: false)[910 646 338]],
   [#link("https://linkedin.com/in/LYPiero", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/LYPiero]],
   [#link("https://github.com/Xpier0X", icon: false, if-underline: false, if-color: false)[github.com\/Xpier0X]],
@@ -258,10 +258,10 @@ Estudiante de Ingeniería de Sistemas en noveno ciclo, con conocimientos en rede
 
 == Habilidades
 
-#strong[Lenguajes:] JavaScript, TypeScript, SQL
+#strong[Lenguajes:] JavaScript, TypeScript, SQl
 
 #strong[Lenguajes de marcado y estilos:] HTML5, CSS3
 
 #strong[Frameworks:] Tailwind CSS, Flutter, Bootstrap, React.js (básico), Astro
 
-#strong[Herramientas:] Git, github, WordPress, Figma, Visual Studio Code
+#strong[Herramientas:] Git, github, WordPress, Figma

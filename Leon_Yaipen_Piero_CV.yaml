@@ -3,7 +3,7 @@ cv:
   name: Leon Yaipen Piero Daniel
   headline:
   location: Lima, PE
-  email: leonyaipenpiero07@gmail.com
+  email: pieroleonyaipen07@gmail.com
   photo:
   phone: +51 910646338
   social_networks:
@@ -102,13 +102,13 @@ cv:
           - Aseguré una navegación fluida y una experiencia de usuario positiva mediante el uso de buenas prácticas de diseño web.
     Habilidades:
       - label: Lenguajes
-        details: JavaScript, TypeScript, SQL 
+        details: JavaScript, TypeScript, SQl
       - label: Lenguajes de marcado y estilos
         details: HTML5, CSS3
       - label: Frameworks
         details: Tailwind CSS, Flutter, Bootstrap, React.js (básico), Astro
       - label: Herramientas
-        details: Git, github, WordPress, Figma, Visual Studio Code
+        details: Git, github, WordPress, Figma
 design:
   theme: engineeringresumes
   # page:

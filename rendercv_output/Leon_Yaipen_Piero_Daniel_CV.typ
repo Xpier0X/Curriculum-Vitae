@@ -78,7 +78,7 @@
   date: datetime(
     year: 2026,
     month: 3,
-    day: 6,
+    day: 26,
   ),
 )
 
@@ -211,6 +211,33 @@ Estudiante de Ingeniería de Sistemas en noveno ciclo, con conocimientos en rede
 )
 
 == Proyectos
+
+#regular-entry(
+  [
+    #strong[Type-CLI]
+
+  ],
+  [
+    Feb 2026 – presente
+
+  ],
+  main-column-second-row: [
+    #summary[Aplicación CLI interactiva para gestión de tareas desarrollada con TypeScript, React (Ink) y SQLite, orientada a replicar una experiencia tipo UI dentro de la terminal.]
+
+    - Diseñé e implementé una interfaz CLI interactiva utilizando Ink (React para terminal), basada en componentes reutilizables.
+
+    - Desarrollé un sistema CRUD completo para la gestión de tareas (crear, listar, editar, eliminar y visualizar detalle).
+
+    - Implementé persistencia de datos mediante SQLite, asegurando almacenamiento ligero y eficiente.
+
+    - Apliqué eliminación lógica de registros, preservando la integridad de los datos.
+
+    - Estructuré el proyecto bajo principios de separación de responsabilidades (componentes, servicios y constantes).
+
+    - Gestioné el flujo de navegación mediante interacción por teclado, simulando una experiencia de aplicación dentro de la consola.
+
+  ],
+)
 
 #regular-entry(
   [

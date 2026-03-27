@@ -23,17 +23,33 @@ cv:
         end_date: present
         location: Lima, PE
     Experiencia:
-      - company: Globtecx
-        position: FronteEnd Developer
+      - company: El Diario del VRAEM
+        position: Frontend Developer (WordPress)
         date:
-        start_date: 2025-07
+        start_date: 2026-02
         end_date: present
         location: Remote
-        summary:
+        summary: Desarrollo de portal web de noticias en WordPress, enfocado en estructura editorial, rendimiento y experiencia de lectura optimizada.
         highlights:
-          - Participe para la creación de un prototipo funcional en Figma para definir el diseño y la estructura de la plataforma web.
-          - Desarrolle el sitio, implementando las funcionalidades necesarias y asegurando una experiencia de usuario óptima.
-          - Colabore con el SEO para optimizar el rendimiento del sitio y mejorar su visibilidad en los motores de búsqueda.
+        - Diseñé y desarrollé el portal de noticias utilizando WordPress y Elementor, estructurando categorías, etiquetas y jerarquía de contenido.
+        - Implementé plantillas dinámicas para la publicación de artículos, asegurando consistencia visual y facilidad de gestión.
+        - Optimicé la experiencia de usuario para lectura (tipografía, espaciado, navegación y tiempos de carga).
+        - Configuré secciones clave como portada de noticias, noticias destacadas y contenido categorizado.
+        - Apliqué buenas prácticas de SEO on-page (estructura de encabezados, metadatos y URLs amigables).
+        - Trabajo en curso mejoras continuas en rendimiento, diseño responsive y escalabilidad del sitio.
+      - company: Turquesa Travel
+        position: Frontend Developer (WordPress)
+        date:
+        start_date: 2025-07
+        end_date: 2025-10
+        location: Remote
+        summary: Desarrollo y optimización de sitio web corporativo para empresa de turismo, enfocado en experiencia de usuario, rendimiento y posicionamiento SEO.
+        highlights:
+          - Diseñé y desarrollé el sitio web utilizando WordPress y Elementor, asegurando una interfaz moderna, responsive y fácil de gestionar.
+          - Implementé secciones clave como catálogo de servicios turísticos, formularios de contacto y páginas informativas orientadas a conversión.
+          - Optimicé el rendimiento del sitio (tiempos de carga, imágenes y estructura), mejorando la experiencia del usuario.
+          - Apliqué buenas prácticas de SEO on-page para mejorar la visibilidad en motores de búsqueda.
+          - Coordiné con el cliente la estructura, contenido y diseño del sitio para alinearlo con sus objetivos comerciales.
       - company: Claro Advisor IT
         position: Soporte Tecnico
         date:

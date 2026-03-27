@@ -16,15 +16,41 @@ Estudiante de Ingeniería de Sistemas en noveno ciclo, con conocimientos en rede
 
 
 # Experiencia
-## **FronteEnd Developer**, Globtecx -- Remote
+## **Frontend Developer (WordPress)**, El Diario del VRAEM -- Remote
 
-Jul 2025 – presente
+Feb 2026 – presente
 
-- Participe para la creación de un prototipo funcional en Figma para definir el diseño y la estructura de la plataforma web.
+Desarrollo de portal web de noticias en WordPress, enfocado en estructura editorial, rendimiento y experiencia de lectura optimizada.
 
-- Desarrolle el sitio, implementando las funcionalidades necesarias y asegurando una experiencia de usuario óptima.
+- Diseñé y desarrollé el portal de noticias utilizando WordPress y Elementor, estructurando categorías, etiquetas y jerarquía de contenido.
 
-- Colabore con el SEO para optimizar el rendimiento del sitio y mejorar su visibilidad en los motores de búsqueda.
+- Implementé plantillas dinámicas para la publicación de artículos, asegurando consistencia visual y facilidad de gestión.
+
+- Optimicé la experiencia de usuario para lectura (tipografía, espaciado, navegación y tiempos de carga).
+
+- Configuré secciones clave como portada de noticias, noticias destacadas y contenido categorizado.
+
+- Apliqué buenas prácticas de SEO on-page (estructura de encabezados, metadatos y URLs amigables).
+
+- Trabajo en curso mejoras continuas en rendimiento, diseño responsive y escalabilidad del sitio.
+
+
+
+## **Frontend Developer (WordPress)**, Turquesa Travel -- Remote
+
+Jul 2025 – Oct 2025
+
+Desarrollo y optimización de sitio web corporativo para empresa de turismo, enfocado en experiencia de usuario, rendimiento y posicionamiento SEO.
+
+- Diseñé y desarrollé el sitio web utilizando WordPress y Elementor, asegurando una interfaz moderna, responsive y fácil de gestionar.
+
+- Implementé secciones clave como catálogo de servicios turísticos, formularios de contacto y páginas informativas orientadas a conversión.
+
+- Optimicé el rendimiento del sitio (tiempos de carga, imágenes y estructura), mejorando la experiencia del usuario.
+
+- Apliqué buenas prácticas de SEO on-page para mejorar la visibilidad en motores de búsqueda.
+
+- Coordiné con el cliente la estructura, contenido y diseño del sitio para alinearlo con sus objetivos comerciales.
 
 
 
